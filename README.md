@@ -21,8 +21,9 @@ index.html – Main resume page
 
 ▶ How to Run
 
-Download or copy the files
-
-Open index.html in any web browser
-
 Visit my webpage: https://brahmaadarsh.github.io/web-dev-practice/
+
+(or)
+
+Download or copy the files
+Open index.html in any web browser
