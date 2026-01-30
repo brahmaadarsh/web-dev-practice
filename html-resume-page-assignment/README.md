@@ -1,11 +1,9 @@
-# web-dev-practice
-Resume Web Page (HTML)
+# Resume-Web-Page (HTML)
 
 This project is a single-page resume website created using HTML.
 It displays personal details, education, skills, and contact information in a clean and simple layout.
 
 🛠 Technologies Used
-
 HTML5
 
 📌 Features
@@ -16,11 +14,9 @@ Simple and readable structure
 Easy to understand and edit
 
 📂 Files Included
-
 index.html – Main resume page
 
 ▶ How to Run
-
 Visit my webpage: https://brahmaadarsh.github.io/web-dev-practice/
 
 (or)
